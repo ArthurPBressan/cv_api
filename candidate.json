@@ -158,6 +158,62 @@
         "paragraphs": [...],
         "keywords": ["Video Game Modification", "Video Games", "Python"],
         "locale": "en",
+        "order": 1
+    }, {
+        "repo_url": "https://github.com/ArthurPBressan/steam-wallpaper-scraper",
+        "job_title": "Programmer",
+        "title": "Steam Wallpaper Scraper",
+        "company_name": null,
+        "start_date": "28-01-2018",
+        "end_date": "30-01-2018",
+        "city": null,
+        "state": null,
+        "country": null,
+        "paragraphs": [...],
+        "keywords": ["Steam", "Web Scraping", "Python"],
+        "locale": "en",
         "order": 2
+    }, {
+        "repo_url": "https://github.com/ArthurPBressan/cv_api",
+        "job_title": "Programmer",
+        "title": "Portfolio and Resume API",
+        "company_name": null,
+        "start_date": "09-10-2018",
+        "end_date": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "paragraphs": [...],
+        "keywords": ["RESTful", "Python", "PostgreSQL"],
+        "locale": "en",
+        "order": 3
+    }, {
+        "repo_url": "https://gitlab.com/ArthurPBressan/OW-event-item-tracker",
+        "job_title": "Programmer",
+        "title": "Overwatch Event Item Tracker",
+        "company_name": null,
+        "start_date": "08-07-2017",
+        "end_date": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "paragraphs": [...],
+        "keywords": ["RESTful", "Python", "PostgreSQL", "TDD", "Data Modelling"],
+        "locale": "en",
+        "order": 4
+    }, {
+        "repo_url": "https://github.com/ArthurPBressan/yt-auto-playlist",
+        "job_title": "Programmer",
+        "title": "Youtube Auto Playlist",
+        "company_name": null,
+        "start_date": "27-07-2014",
+        "end_date": null,
+        "city": null,
+        "state": null,
+        "country": null,
+        "paragraphs": [...],
+        "keywords": ["Python", "Google API", "Youtube API"],
+        "locale": "en",
+        "order": 4
     }]
 }
