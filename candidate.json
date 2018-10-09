@@ -1,0 +1,163 @@
+{
+    "full_name": "Arthur de Paula Bressan",
+    "contacts": [{
+        "type": "email",
+        "address": "arthurbressan2@hotmail.com"
+    }, {
+        "type": "email",
+        "address": "arthurpbressan@gmail.com"
+    }, {
+        "type": "phone",
+        "country_code": "+55",
+        "number": "(12) 99123-2413"
+    }],
+    "address": {
+        "country": "BRA",
+        "street": "Rua Presidente Epitácio",
+        "number": "97",
+        "complement": null,
+        "state": "SP",
+        "zip_code": "12240-310",
+        "city": "Sâo José dos Campos"
+    },
+    "education": [{
+        "degree": "Bachelor of Science",
+        "course": "Computer Sciences",
+        "institution": "Instituto Brasileiro de Tecnologia Avançada",
+        "start_date": "01-01-2012",
+        "end_date": "31-12-2015",
+        "city": "São José dos Campos",
+        "state": "SP",
+        "country": "BRA",
+        "projects": [{
+            "repo_url": "https://github.com/ArthurPBressan/hotsite-sa-bilac-2015",
+            "job_title": "Lead Developer",
+            "company_name": "Graduation Project",
+            "title": "Street Light Maintenance System - Cidade Iluminada",
+            "start_date": "01-01-2015",
+            "end_date": "31-12-2015",
+            "city": "São José dos Campos",
+            "state": "SP",
+            "country": "BRA",
+            "paragraphs": [{
+                "locale": "en",
+                "order": 1,
+                "text": "Worked alongside the..."
+            }, {
+                "locale": "en",
+                "order": 2,
+                "text": "Designed, developed and implemented an Android..."
+            }, {
+                "locale": "en",
+                "order": 3,
+                "text": "Designed, developed and implemented a web..."
+            }],
+            "keywords": ["Full-Stack", "Project Lead", "Python", "Flask",
+                         "AngularJS", "PostgreSQL", "Municipal Government",
+                         "Android", "GPS", "Google Maps"],
+            "locale": "en",
+            "order": 1
+        }, {
+            "repo_url": "https://github.com/ArthurPBressan/hotsite-sa-bilac-2015",
+            "job_title": "Lead Developer",
+            "company_name": "Side Project",
+            "title": "Bilac Hot Site",
+            "start_date": "01-10-2015",
+            "end_date": "10-11-2015",
+            "city": "São José dos Campos",
+            "state": "SP",
+            "country": "BRA",
+            "paragraphs": [{
+                "locale": "en",
+                "order": 1,
+                "text": "Hotsite"
+            }],
+            "keywords": ["Full-Stack", "Project Lead", "Python", "Flask",
+                         "AngularJS", "PostgreSQL", "Digital Ocean",
+                         "Infrastructure", "Hosting"],
+            "locale": "en",
+            "order": 1
+        }],
+        "locale": "en",
+        "order": 1
+    }],
+    "work_experience": [{
+        "repo_url": null,
+        "job_title": "Programmer",
+        "title": null,
+        "company_name": "Pricez Consultoria Ltda",
+        "start_date": "01-08-2013",
+        "end_date": "01-01-2018",
+        "city": "São José dos Campos",
+        "state": "SP",
+        "country": "BRA",
+        "paragraphs": [{
+            "locale": "en",
+            "order": 1,
+            "text": "Built and maintained.."
+        }, {
+            "locale": "en",
+            "order": 2,
+            "text": "Thoroughly tested..."
+        }, {
+            "locale": "en",
+            "order": 3,
+            "text": "Managed software"
+        }, {
+            "locale": "en",
+            "order": 4,
+            "text": "Worked on ongoing"
+        }],
+        "keywords": ["Full-Stack", "Python", "Flask", "PostgreSQL", "AngularJS",
+                     "JQuery", "TDD", "CI", "git", "redis", "influxDB", "Vue.JS",
+                     "HTML", "CSS", "gitlab"],
+        "locale": "en",
+        "order": 1
+    }, {
+        "repo_url": null,
+        "job_title": "Programmer",
+        "title": null,
+        "company_name": "Sniper Systems Ltda",
+        "start_date": "01-11-2011",
+        "end_date": "01-08-2013",
+        "city": "São José dos Campos",
+        "state": "SP",
+        "country": "BRA",
+        "paragraphs": [],
+        "keywords": ["C# .Net", "OpenCV", "SQLite", "Desktop Programming",
+                     "Training", "Security", "Police", "Armed Forces"],
+        "locale": "en",
+        "order": 2
+    }],
+    "programming_languages": ["Pascal", "C", "Java", "C#", "Python", "Ruby",
+                              "Clojure"],
+    "natural_languages": [{
+        "name": "pt-BR",
+        "fluency": "native",
+        "accreditations": null
+    }, {
+        "name": "en",
+        "fluency": "fluent",
+        "accreditations": [{
+            "name": "IELTS",
+            "score": "8.0",
+            "description": "Has fully operational...",
+            "date": "03-03-2018"
+        }]
+    }],
+    "side_projects": [{
+        "repo_url": "https://github.com/ArthurPBressan/workshop_signs",
+        "job_title": "Programmer",
+        "title": "Stonehearth Workshop Signs",
+        "company_name": null,
+        "start_date": "01-04-2018",
+        "end_date": "01-04-2018",
+        "city": null,
+        "state": null,
+        "country": null,
+        "paragraphs": [...],
+        "keywords": ["Video Game Modification", "Video Games", "Python"],
+        "locale": "en",
+        "order": 2
+    }]
+}
