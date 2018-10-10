@@ -1,0 +1,127 @@
+"country": ISO 3166-1 alpha-3
+"locale": "en" ou "pt-br"
+
+=============================================
+
+Modelos:
+
+Candidate
+    full_name
+
+Contact
+    candidate_id
+
+    type
+    address
+    country_code
+    number
+
+Address
+    candidate_id
+
+    country
+    street
+    number
+    complement
+    state
+    zip_code
+    city
+
+Education
+    candidate_id
+
+    degree
+    course
+    institution
+    start_date
+    end_date
+    city
+    state
+    country
+    locale
+    order
+
+
+Paragraph
+    project_id
+    candidate_id
+
+    locale
+    order
+    text
+
+
+Project
+    education_id
+    candidate_id
+
+    repo_url
+    job_title
+    company_name
+    title
+    start_date
+    end_date
+    city
+    state
+    country
+    locale
+    order
+    type
+
+Social Media
+    candidate_id
+
+    name
+    url
+
+Natural Language
+    candidate_id
+
+    name
+    fluency
+
+Natural Language > Accreditation
+    natural_language_id
+
+    name
+    score
+    description
+    date
+
+Keywords
+    project_id
+    candidate_id
+
+    word
+
+
+
+GET candidate
+
+POST candidate
+- Limite 1 no banco
+
+PUT candidate
+{
+    "full_name": "xyz"
+}
+
+-----
+
+POST candidate/contacts
+
+PUT candidate/contacts/{id}
+
+DELETE candidate/contacts/{id}
+
+-----
+
+PUT candidate/address
+
+-----
+
+POST candidate/education
+
+PUT candidate/education/{id}
+
+DELETE candidate/education/{id}

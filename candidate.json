@@ -1,5 +1,10 @@
 {
     "full_name": "Arthur de Paula Bressan",
+    "summary": {
+        "locale": "en",
+        "order": null,
+        "text": "A Full-Stack Programmer"
+    },
     "contacts": [{
         "type": "email",
         "address": "arthurbressan2@hotmail.com"
@@ -76,7 +81,7 @@
                          "AngularJS", "PostgreSQL", "Digital Ocean",
                          "Infrastructure", "Hosting"],
             "locale": "en",
-            "order": 1
+            "order": 2
         }],
         "locale": "en",
         "order": 1
@@ -112,7 +117,8 @@
                      "JQuery", "TDD", "CI", "git", "redis", "influxDB", "Vue.JS",
                      "HTML", "CSS", "gitlab"],
         "locale": "en",
-        "order": 1
+        "order": 1,
+        "type": "work_experience"
     }, {
         "repo_url": null,
         "job_title": "Programmer",
@@ -127,7 +133,8 @@
         "keywords": ["C# .Net", "OpenCV", "SQLite", "Desktop Programming",
                      "Training", "Security", "Police", "Armed Forces"],
         "locale": "en",
-        "order": 2
+        "order": 2,
+        "type": "work_experience"
     }],
     "programming_languages": ["Java", "C#", "Python"],
     "natural_languages": [{
@@ -157,7 +164,8 @@
         "paragraphs": [""],
         "keywords": ["Video Game Modification", "Video Games", "Python"],
         "locale": "en",
-        "order": 1
+        "order": 1,
+        "type": "side_project"
     }, {
         "repo_url": "https://github.com/ArthurPBressan/steam-wallpaper-scraper",
         "job_title": "Programmer",
@@ -171,7 +179,8 @@
         "paragraphs": [""],
         "keywords": ["Steam", "Web Scraping", "Python"],
         "locale": "en",
-        "order": 2
+        "order": 2,
+        "type": "side_project"
     }, {
         "repo_url": "https://github.com/ArthurPBressan/cv_api",
         "job_title": "Programmer",
@@ -185,7 +194,8 @@
         "paragraphs": [""],
         "keywords": ["RESTful", "Python", "PostgreSQL"],
         "locale": "en",
-        "order": 3
+        "order": 3,
+        "type": "side_project"
     }, {
         "repo_url": "https://gitlab.com/ArthurPBressan/OW-event-item-tracker",
         "job_title": "Programmer",
@@ -199,7 +209,8 @@
         "paragraphs": [""],
         "keywords": ["RESTful", "Python", "PostgreSQL", "TDD", "Data Modelling"],
         "locale": "en",
-        "order": 4
+        "order": 4,
+        "type": "side_project"
     }, {
         "repo_url": "https://github.com/ArthurPBressan/yt-auto-playlist",
         "job_title": "Programmer",
@@ -213,6 +224,17 @@
         "paragraphs": [""],
         "keywords": ["Python", "Google API", "Youtube API"],
         "locale": "en",
-        "order": 5
+        "order": 5,
+        "type": "side_project"
+    }],
+    "social_media": [{
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/arthur-de-paula-bressan/"
+    }, {
+        "name": "github",
+        "url": "https://github.com/ArthurPBressan"
+    }, {
+        "name": "gitlab",
+        "url": "https://github.com/ArthurPBressan"
     }]
 }
